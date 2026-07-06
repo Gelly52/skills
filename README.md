@@ -45,7 +45,3 @@ Skills split on **who can invoke them**:
 - **Model-invoked** — The agent activates it automatically when the task fits.
 
 A user-invoked skill may call model-invoked skills, but never another user-invoked one.
-
-## License
-
-MIT
